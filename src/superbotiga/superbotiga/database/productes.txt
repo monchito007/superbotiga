@@ -1,0 +1,7 @@
+1	pomes	20	1.25
+2	peres	20	1.15
+3	platans	20	1.05
+4	taronges	20	1.30
+5	llimones	20	1.20
+6	pastanagues	20	1.25
+7	raim	20	1.00

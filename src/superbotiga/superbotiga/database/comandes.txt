@@ -1,0 +1,1 @@
+id:1	id_client:76301450	pomes:10	peres:6	platans:0	taronges:0	llimones:0	pastanagues:0	raim:0	preu:19.4
