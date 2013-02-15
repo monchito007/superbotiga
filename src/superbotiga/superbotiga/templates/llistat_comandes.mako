@@ -4,7 +4,7 @@
 	</head>
    <body>
       <h1>Llistat Comandes - ${projecte}</h1>
-      <a href='/'>Tornar</a><br><br>
+      <a href=${request.route_url('home')}>Tornar</a><br><br>
       <form action="comandes" method="post">
 			<table border='1'>
 				<tr>
@@ -42,6 +42,6 @@
 				% endfor
 			</table>
 		</form>
-		<a href='/'>Tornar</a>
+		<a href=${request.route_url('home')}>Tornar</a>
    </body>
 </html>

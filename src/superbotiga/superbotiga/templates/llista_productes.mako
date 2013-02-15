@@ -22,7 +22,7 @@
 				</tr>
 				% endfor
 				<tr>
-				    <td colspan=4 align="center"><a href='/'>Tornar</a></td>
+				    <td colspan=4 align="center"><a href=${request.route_url('home')}>Tornar</a></td>
 				</tr>
 			</table>
 	</form>

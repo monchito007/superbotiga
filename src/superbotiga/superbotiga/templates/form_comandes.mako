@@ -33,8 +33,8 @@
 				</tr>
 		</table>
 		<br>
-		<a href='/'>Inici</a>
+		<a href=${request.route_url('home')}>Inici</a>
 		<br>
-		<a href='/llistat_comandes'>Veure Llistat de Comandes</a>
+		<a href=${request.route_url('llistat_comandes')}>Veure Llistat de Comandes</a>
 	</body>
 </html>

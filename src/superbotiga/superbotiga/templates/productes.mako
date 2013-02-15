@@ -4,7 +4,7 @@
 	</head>
    <body>
       <h1>${projecte}</h1>
-      <form action="comandes" method="post">
+      <form action='${request.route_url('comandes')}' method="post">
 			<table border='1'>
 				<tr>
 					<td><b>ID</b></td>
@@ -35,7 +35,7 @@
 				% endfor
 					<tr>
 						<td colspan=3 align="center"><input type="submit" name="add" value="Realitzar comanda" class="button"></td>
-						<td colspan=2 align="center"><a href='/'>Tornar</a></td>
+						<td colspan=2 align="center"><a href=${request.route_url('home')}>Tornar</a></td>
 					</tr>
 			</table>
 		</form>
