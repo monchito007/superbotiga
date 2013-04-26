@@ -4,6 +4,11 @@
 	</head>
    <body>
 		<h1>Comandes SimpleShop</h1>
+		% if logged_in:
+		    <p id="usuari-box">Usuari: <b>${logged_in}</b> | [<a href="/logout">Sortir</a>]</p>
+		% else:
+		    <p id="usuari-box">[<a href="/login">Identifica't</a>]</p>	
+		% endif
 		
 		<table border='1'>
 				<tr>

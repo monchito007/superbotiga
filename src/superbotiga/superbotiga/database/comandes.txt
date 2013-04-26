@@ -2,3 +2,6 @@ id:1	id_client:76301450	pomes:10	peres:6	platans:0	taronges:0	llimones:0	pastana
 id:2	id_client:11527640	pomes:10	peres:0	platans:0	taronges:0	llimones:0	pastanagues:0	raim:0	preu:12.5
 id:3	id_client:77682010	pomes:10	peres:0	platans:0	taronges:0	llimones:0	pastanagues:0	raim:0	preu:12.5
 id:4	id_client:71787782	pomes:0	peres:0	platans:10	taronges:0	llimones:0	pastanagues:0	raim:0	preu:10.5
+id:5	id_client:70154596	pomes:0	peres:0	platans:0	taronges:0	llimones:0	pastanagues:1	raim:0	preu:1.25
+id:6	id_client:40057375	pomes:0	peres:0	platans:0	taronges:0	llimones:0	pastanagues:1	raim:0	preu:1.25
+id:7	id_client:14344341	pomes:1	peres:0	platans:0	taronges:0	llimones:0	pastanagues:1	raim:1	preu:3.5
